@@ -1,0 +1,1 @@
+{"n_bins_grid": 10242, "n_bins_kept": 7851, "dropped": {"span": 65, "land": 2232, "small": 94, "tiny": 0}, "angular_precision": 0.1, "min_ocean_fraction": 0.02, "land": "Natural Earth 10m land"}
